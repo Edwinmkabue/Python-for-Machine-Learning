@@ -1,0 +1,1 @@
+This notebook codes and their outputs to the Hamoye's quiz on Introduction to Python for Machine Learning.
